@@ -35,8 +35,7 @@ import consulo.project.ui.wm.ToolWindowManager;
 import consulo.ui.ex.toolWindow.ToolWindow;
 import consulo.virtualFileSystem.LocalFileSystem;
 import consulo.virtualFileSystem.VirtualFile;
-
-import javax.annotation.Nonnull;
+import jakarta.annotation.Nonnull;
 
 /**
  * Created by IntelliJ IDEA.

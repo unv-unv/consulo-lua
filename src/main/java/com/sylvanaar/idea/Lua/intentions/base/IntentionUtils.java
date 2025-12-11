@@ -15,12 +15,11 @@
  */
 package com.sylvanaar.idea.lua.intentions.base;
 
-import javax.annotation.Nonnull;
-
-import consulo.language.util.IncorrectOperationException;
 import com.sylvanaar.idea.lua.lang.psi.LuaPsiElementFactory;
 import com.sylvanaar.idea.lua.lang.psi.expressions.LuaExpression;
 import com.sylvanaar.idea.lua.lang.psi.statements.LuaStatementElement;
+import consulo.language.util.IncorrectOperationException;
+import jakarta.annotation.Nonnull;
 import org.jetbrains.annotations.NonNls;
 
 
